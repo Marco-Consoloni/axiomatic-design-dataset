@@ -10,6 +10,8 @@ We are thrilled to release the **Axiomatic Design (AXD) Dataset**, a benchmark d
 - **6,000 sentences** annotated with **19,555 Axiomatic Design concepts**.
 - **Validation** by domain experts.
 
+![Dataset Overview](path_to_image)
+
 The annotations were conducted using [Doccano](https://doccano.github.io/doccano/), an open-source tool for text annotation that supports both entity and relation labeling.
 
 ---
