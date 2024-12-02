@@ -37,5 +37,5 @@ This folder includes the JSON configuration file for Doccano, defining:
 ---
 ### Contribute and Contact
 We welcome contributions and feedback to enhance the dataset and its usability. Feel free to open issues or submit pull requests.
-For questions or collaborations, reach out to [Marco Consoloni](marco.consoloni@phd.unipi.it).
+For questions or collaborations, reach out to **marco.consoloni@phd.unipi.it**.
 
