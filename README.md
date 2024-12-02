@@ -31,7 +31,7 @@ This folder includes the JSON configuration file for Doccano, defining:
 ---
 
 ### How to Use
-1. Import the JSON dataset into [Doccano](https://doccano.github.io/doccano/) for visualization or further annotation.
+1. Import `axiomatic_dataset_doccano.jsonl`file into [Doccano](https://doccano.github.io/doccano/) for visualization or further annotation.
 2. Refer to the Excel file (`axiomatic_dataset.xlsx`) for tabular exploration of annotations.
 
 ---
