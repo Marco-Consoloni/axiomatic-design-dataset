@@ -3,7 +3,7 @@
 **Paper Link**:
 [Link to Paper - To Be Added]
 
-We are thrilled to release the **Axiomatic Design (AXD) Dataset**, a benchmark dataset consisting of:
+We release the **Axiomatic Design (AXD) Dataset**, a benchmark dataset consisting of:
 
 - **6,000 sentences** annotated with **19,555 Axiomatic Design concepts**.
 - **Validation** by domain experts.
