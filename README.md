@@ -6,6 +6,7 @@
 We release the **Axiomatic Design (AXD) Dataset**, a benchmark dataset consisting of:
 
 - **6,000 sentences** annotated with **19,555 Axiomatic Design concepts**.
+- **6,000 sentences** classified into four engineering design classes: **Functional, Structural, Mixed, and Other**.
 - **Validation** by domain experts.
 
 ![Dataset Overview](https://github.com/Marco-Consoloni/axiomatic-design-dataset/blob/main/images/annotated_sentence_background.jpg)
