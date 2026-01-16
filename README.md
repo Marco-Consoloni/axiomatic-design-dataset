@@ -2,7 +2,10 @@
 
 This repository release a manual annotated dataset by domain experts that is constructed in the following published work: *Giordano, V., Consoloni, M., Losanno, M., Chiarello, F., & Fantoni, G. (2025). Decoding the grammar of design theory for large language models: the case of axiomatic design theory. Proceedings of the Design Society, 5, 1121-1130* https://doi.org/10.1017/pds.2025.10126."
 
-We release a Datase which focus on the annotation of **Axiomatic Design (AXD)** technical concepts from Suh (2001) (https://www.axiomaticdesign.com/technology/axiomatic-design-advances-and-applications/), a benchmark dataset consisting of:
+The dataset focuses on the annotation of **Axiomatic Design** technical concepts from the Aximotic Desing theory by Suh (2001) (https://www.axiomaticdesign.com/technology/axiomatic-design-advances-and-applications/). It supports the identification of Funtional Requirements(FRs) and Design Parameters(DPs) for sentence calssification and Named Entity recognition.
+
+
+“Functional” sentences describe only the functioning or behaviour of patented inventions. “Structural” sentences describe only the architecture or structural aspects of the invention; “Mixed” sentences contain both functional and structural aspects. “Other” sentences do not fall into the preceding categories and typically contain non-technical content, such as contextual background or legal disclaimers. 
 
 - **Sentence Classsification:** 6,000 sentences classified into four classes: **Functional, Structural, Mixed, and Other**.
 
