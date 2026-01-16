@@ -9,7 +9,7 @@ This repository releases a manually annotated dataset, curated by domain experts
 The dataset focuses on the annotation of Axiomatic Design (AXD) elements, specifically Functional Requirements (FRs) and Design Parameters (DPs), as defined in Suh’s Axiomatic Design theory (Suh, 2001).
 For further details on the theory, see: https://www.axiomaticdesign.com/technology/axiomatic-design-advances-and-applications/
 
-The dataset supports both sentence-level classification and word-level named entity recognition (NER) tasks.
+The dataset consists of 6,000 annotated sentences and it supports both sentence-level classification and word-level named entity recognition (NER) tasks.
 
 ### Sentence Classification
 Each sentence is labeled according to its semantic content:
