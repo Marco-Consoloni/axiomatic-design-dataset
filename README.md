@@ -2,8 +2,6 @@
 
 This repository releases a manually annotated dataset, curated by domain experts, and introduced in the following published work: *"Giordano, V., Consoloni, M., Losanno, M., Chiarello, F., & Fantoni, G. (2025). Decoding the grammar of design theory for large language models: the case of axiomatic design theory. Proceedings of the Design Society, 5, 1121–1130.* https://doi.org/10.1017/pds.2025.10126"
 
----
-
 ## Dataset Description
 
 The dataset focuses on the annotation of Axiomatic Design (AD) elements, specifically Functional Requirements (FRs) and Design Parameters (DPs), as defined in Suh’s Axiomatic Design theory (Suh, 2001).
@@ -29,8 +27,6 @@ As illustrated in Fig. 1, the dataset includes token-level annotations for Axiom
 
 The annotations were conducted using [Doccano](https://doccano.github.io/doccano/), an open-source tool for text annotation that supports both entity and relation labeling.
 
----
-
 ### Repository Structure
 
 #### `dataset/`
@@ -43,13 +39,10 @@ This folder includes the JSON configuration file for Doccano, defining:
 - **`label_config_entity.json`**: configuration file for entity tags.
 - **`label_config_rel.json`**: configuration file for relation tags.
 
----
-
 ### How to Use
 1. Import `axiomatic_dataset_doccano.jsonl`file into [Doccano](https://doccano.github.io/doccano/) for visualization or further annotation.
 2. Refer to the Excel file (`axiomatic_dataset.xlsx`) for tabular exploration of annotations.
 
----
 ### Contribute and Contact
 We welcome contributions and feedback to enhance the dataset and its usability. Feel free to open issues or submit pull requests.
 For questions or collaborations, reach out to **marco.consoloni@phd.unipi.it**.
