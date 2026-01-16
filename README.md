@@ -27,6 +27,8 @@ As illustrated in Fig. 1, the dataset includes token-level annotations for Axiom
 
 ![Dataset Overview](https://github.com/Marco-Consoloni/axiomatic-design-dataset/blob/main/assets/NER_annotation.png)
 
+**Fig. 1** - *Example of annotated sentence for NER.*
+
 The annotations were conducted using [Doccano](https://doccano.github.io/doccano/), an open-source tool for text annotation that supports both entity and relation labeling.
 
 ### Repository Structure
