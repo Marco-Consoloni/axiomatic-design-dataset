@@ -25,7 +25,7 @@ As illustrated in Fig. 1, the dataset includes token-level annotations for Axiom
 - **Receiver**: The entity affected by the action.
 - **Design Parameter (DP)**: A measurable attribute of a component that designers define and adjust within its feasible range to satisfy one or more functional requirements.
 
-![Dataset Overview](https://github.com/Marco-Consoloni/axiomatic-design-dataset/blob/main/images/NER_annotation.png)
+![Dataset Overview](https://github.com/Marco-Consoloni/axiomatic-design-dataset/blob/main/assets/NER_annotation.png)
 
 The annotations were conducted using [Doccano](https://doccano.github.io/doccano/), an open-source tool for text annotation that supports both entity and relation labeling.
 
