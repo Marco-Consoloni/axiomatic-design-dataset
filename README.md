@@ -1,13 +1,12 @@
 # Axiomatic Design (AXD) Dataset
 
-**Paper Link**:
-[Link to Paper - To Be Added]
+This repository release a manual annotated dataset by domain experts that is constructed in the following published work: *Giordano, V., Consoloni, M., Losanno, M., Chiarello, F., & Fantoni, G. (2025). Decoding the grammar of design theory for large language models: the case of axiomatic design theory. Proceedings of the Design Society, 5, 1121-1130* https://doi.org/10.1017/pds.2025.10126."
 
-We release the **Axiomatic Design (AXD) Dataset**, a benchmark dataset consisting of:
+We release a Datase which focus on the annotation of **Axiomatic Design (AXD)** technical concepts from Suh (2001) (https://www.axiomaticdesign.com/technology/axiomatic-design-advances-and-applications/), a benchmark dataset consisting of:
 
-- **6,000 sentences** annotated with **19,555 Axiomatic Design concepts**.
-- **6,000 sentences** classified into four engineering design classes: **Functional, Structural, Mixed, and Other**.
-- **Validation** by domain experts.
+- **Sentence Classsification:** 6,000 sentences classified into four classes: **Functional, Structural, Mixed, and Other**.
+
+- **Named Entity Recognition:** 6,000 sentences annotated with Functional Requirements (FRs) and Design Parameters (DPs) As illustrated in Figure 1
 
 ![Dataset Overview](https://github.com/Marco-Consoloni/axiomatic-design-dataset/blob/main/images/annotated_sentence_background.jpg)
 
