@@ -1,10 +1,10 @@
-# Axiomatic Design (AXD) Dataset
+# Axiomatic Design Dataset
 
 This repository releases a manually annotated dataset, curated by domain experts, and introduced in the following published work: *"Giordano, V., Consoloni, M., Losanno, M., Chiarello, F., & Fantoni, G. (2025). Decoding the grammar of design theory for large language models: the case of axiomatic design theory. Proceedings of the Design Society, 5, 1121–1130.* https://doi.org/10.1017/pds.2025.10126"
 
 ## Dataset Description
 
-The dataset focuses on the annotation of Axiomatic Design (AD) elements, specifically Functional Requirements (FRs) and Design Parameters (DPs), as defined in Suh’s Axiomatic Design theory (Suh, 2001).
+The dataset focuses on the annotation of Axiomatic Design (AXD) elements, specifically Functional Requirements (FRs) and Design Parameters (DPs), as defined in Suh’s Axiomatic Design theory (Suh, 2001).
 For further details on the theory, see: https://www.axiomaticdesign.com/technology/axiomatic-design-advances-and-applications/
 
 The dataset supports both sentence-level classification and word-level named entity recognition (NER) tasks.
@@ -18,9 +18,9 @@ Each sentence is labeled according to its semantic content:
 
 ### Named Entity Recognition (NER)
 As illustrated in Fig. 1, the dataset includes token-level annotations for Axiomatic Design entities:
-- **Doer (D)**: The entity required to perform the action described in a FR.
-- **Action (A)**: The action that must be performed by the Doer.
-- **Receiver (R)**: The entity affected by the action.
+- **Doer**: The entity required to perform the action described in a FR.
+- **Action**: The action of the FR that must be performed by the Doer.
+- **Receiver**: The entity affected by the action.
 - **Design Parameter (DP)**: A measurable attribute of a component that designers define and adjust within its feasible range to satisfy one or more functional requirements.
 
 ![Dataset Overview](https://github.com/Marco-Consoloni/axiomatic-design-dataset/blob/main/images/NER_annotation.png)
