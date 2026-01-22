@@ -1,8 +1,6 @@
 # Axiomatic Design Dataset
 
-This repository releases a manually annotated dataset, curated by domain experts, and introduced in the following published work: 
-
-*"Giordano, V., Consoloni, M., Losanno, M., Chiarello, F., & Fantoni, G. (2025). Decoding the grammar of design theory for large language models: the case of axiomatic design theory. Proceedings of the Design Society, 5, 1121–1130.* https://doi.org/10.1017/pds.2025.10126"
+This repository releases a manually annotated dataset, curated by domain experts.
 
 ## Dataset Description
 
@@ -49,5 +47,4 @@ This folder includes the JSON configuration file for Doccano, defining:
 
 ### Contribute and Contact
 We welcome contributions and feedback to enhance the dataset and its usability. Feel free to open issues or submit pull requests.
-For questions or collaborations, reach out to **marco.consoloni@phd.unipi.it**.
 
